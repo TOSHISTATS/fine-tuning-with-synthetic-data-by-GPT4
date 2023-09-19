@@ -10,7 +10,7 @@ This is an example of synthetic e-mail of cunstomer complaint in the bank and re
 ![Screenshot 2023-09-19 10 31 11](https://github.com/TOSHISTATS/fine-tuning-with-synthetic-data-by-GPT4/assets/28681557/da37db5a-5c7c-47f7-b6a9-3fb48d16a97b)
 
 
-　　　　　　　　　　　　　                             ![Screenshot 2023-09-19 12 03 23](https://github.com/TOSHISTATS/fine-tuning-with-synthetic-data-by-GPT4/assets/28681557/89c7b57c-15de-4641-b29c-699572437b55)
+　　　　　　　　　　　　　                      ![Screenshot 2023-09-19 12 03 23](https://github.com/TOSHISTATS/fine-tuning-with-synthetic-data-by-GPT4/assets/28681557/89c7b57c-15de-4641-b29c-699572437b55)
 
 
 This analysis is inspired by this great work by  https://github.com/mshumer/gpt-llm-trainer
