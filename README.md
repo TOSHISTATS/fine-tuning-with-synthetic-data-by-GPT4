@@ -1,6 +1,6 @@
 # fine tuning with synthetic data by GPT4
 
-This is fine tuning process with synthetic data created by GPT4. Fine tuned model can be used for classification for customer complaints in financial industries. It can classify six classes of products.
+This is fine tuning process with 15 synthetic data created by GPT4. Fine tuned model can be used for classification for customer complaints in financial industries. It can classify six classes of products.
 
 これはGPT4によって生成された合成データを用いたファインチューニングのプロセスです。ファインチューニングされたモデルは、金融業界における顧客の苦情を分類するために使用することができます。このモデルは、6種類の金融商品に対して分類を行うことができます。
 
