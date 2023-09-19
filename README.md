@@ -5,7 +5,7 @@ This is fine tuning process with synthetic data created by GPT4. Fine tuned mode
 これはGPT4によって生成された合成データを用いたファインチューニングのプロセスです。ファインチューニングされたモデルは、金融業界における顧客の苦情を分類するために使用することができます。このモデルは、6種類の金融商品に対して分類を行うことができます。
 
 
-This is an example of syhthetic e-mail of cunstomer complaint in the bank.
+This is an example of synthetic e-mail of cunstomer complaint in the bank.
 
 ![Screenshot 2023-09-19 10 29 37](https://github.com/TOSHISTATS/fine-tuning-with-synthetic-data-by-GPT4/assets/28681557/805ff13f-db82-4d02-b8ed-91bc68da8e9a)
 
